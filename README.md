@@ -1,4 +1,4 @@
-# 4447_Project
+# Cars_Project
 In Tools 1, we are concerned with data cleaning and exploratory analysis. Please select a
 project that has enough scope for the following activities.
 
