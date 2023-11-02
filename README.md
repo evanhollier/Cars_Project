@@ -39,4 +39,4 @@ mentioned in the following rubric. Try to make your report more enjoyable to rea
 	- What data visualization helped you understand about data distribution.\
 	- What you did about possible outlier as per data distribution visualization. (Did you
 	  confirm with your client whether it is actually an outlier or put a disclosure statement in your
-	  notebook if you decided to remove it?)\
+	  notebook if you decided to remove it?)
